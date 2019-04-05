@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/ShreyaKhare/audio-adversai
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
