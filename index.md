@@ -1,4 +1,8 @@
-##Adversarial Black-Box Attacks on Automatic Speech Recognition Systems using Multi-Objective Evolutionary Optimization
+##Abstract
+Fooling deep neural networks with adversarial input have exposed a significant vulnerability in the current state-of-the-art systems in multiple domains. Both black-box and white-box approaches have been used to either replicate the model itself or to craft examples which cause the model to fail. In this work, we propose a framework which uses multi-objective evolutionary optimization to perform both targeted and un-targeted black-box attacks on Automatic Speech Recognition (ASR) systems. 
+We apply this framework on two ASR systems: Deepspeech and Kaldi-ASR, which increases the Word Error Rates (WER) of these systems by upto 980\%, indicating the potency of our approach. During both un-targeted and targeted attacks, the adversarial samples maintain a high acoustic similarity of $0.98$ and $0.97$ with the original audio. 
+
+More details are available in the Paper
 
 You can use the [editor on GitHub](https://github.com/ShreyaKhare/audio-adversairial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
