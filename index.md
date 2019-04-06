@@ -6,7 +6,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
+<details>
+<summary>Click to toggle contents of `code`</summary>
+```
+CODE!
+```
+</details>
 
+<details>
+<summary>Click to toggle contents of other `code`</summary>
+```
+MORE CODE!
+```
+</details>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
