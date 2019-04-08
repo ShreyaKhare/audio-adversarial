@@ -5,8 +5,9 @@ We apply this framework on two ASR systems: Deepspeech and Kaldi-ASR, which incr
 
 More details are available in the Paper. Few of the adversarial samples generated on Kaldi-ASR and Deepspeech are below:
 
-<table border=0|cellpadding=0|cellspaceing=0|frame=void|rules=none><tr>
-<td>
+{table:border=0|cellpadding=0|cellspaceing=0|frame=void|rules=none}
+{tr}
+{th}
     <audio src="samples/sample-000001.wav" controls preload></audio>
     <details>
     <summary>Click to Reveal text</summary>
@@ -14,8 +15,9 @@ More details are available in the Paper. Few of the adversarial samples generate
     I have got to got to him 
     ```
     </details>
-</td>
-<td> 
+{th}
+{tr}
+{th}
 <audio src="samples/sample-000001.wav" controls preload></audio>
 <details>
 <summary>Click to Reveal text</summary>
@@ -23,8 +25,8 @@ More details are available in the Paper. Few of the adversarial samples generate
 I have got to got to him 
 ```
 </details>
- </td>
-</tr></table>
+{th}
+{tr}{table}
 
 
 
