@@ -3,7 +3,7 @@
 Fooling deep neural networks with adversarial input have exposed a significant vulnerability in the current state-of-the-art systems in multiple domains. Both black-box and white-box approaches have been used to either replicate the model itself or to craft examples which cause the model to fail. In this work, we propose a framework which uses multi-objective evolutionary optimization to perform both targeted and un-targeted black-box attacks on Automatic Speech Recognition (ASR) systems. 
 We apply this framework on two ASR systems: Deepspeech and Kaldi-ASR, which increases the Word Error Rates (WER) of these systems by upto 980\%, indicating the potency of our approach. During both un-targeted and targeted attacks, the adversarial samples maintain a high acoustic similarity of 0.98 and 0.97 with the original audio. 
 
-More details are available in the Paper. Few of the adversarial samples generated on Kaldi-ASR and Deepspeech are below: kjda
+More details are available in the Paper. Few of the adversarial samples generated on Kaldi-ASR and Deepspeech are below:
 
 <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
 <details>
@@ -18,33 +18,7 @@ CODE!
 ```
 MORE CODE!
 ```
-</details>|<audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
-<details>
-<summary>Click to toggle contents of `code`</summary>
-```
-CODE!
-```
-</details>
-
-<details>
-<summary>Click to toggle contents of other `code`</summary>
-```
-MORE CODE!
-```
-</details>|<audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
-<details>
-<summary>Click to toggle contents of `code`</summary>
-```
-CODE!
-```
-</details>
-
-<details>
-<summary>Click to toggle contents of other `code`</summary>
-```
-MORE CODE!
-```
-</details>|
+</details>||
 You can use the [editor on GitHub](https://github.com/ShreyaKhare/audio-adversairial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -66,6 +40,18 @@ MORE CODE!
 </details>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+|  	|  	|  	| DeepSpeech 	|  	| Kaldi-ASR 	|  	|
+|-------------	|------------------------------	|----------------	|:-------------------------:	|-------------------------	|-------------------------	|--------------------------	|
+| Attack type 	| ASR  Text  	| Targeted  Text 	| Adversarial  text  (NSGA) 	| Adversarial text (MOGA) 	| Adversarial text (NSGA) 	| Adversarial text  (MOGA) 	|
+| Untargeted 	|  	|  	|  	|  	|  	|  	|
+| <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
+ 	| <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
+ 	| <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
+ 	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+| Targeted 	| follow the instructions here 	| all of these 	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|  	|  	|
 ```markdown
 Syntax highlighted code block
 
