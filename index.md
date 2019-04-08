@@ -5,7 +5,7 @@ We apply this framework on two ASR systems: Deepspeech and Kaldi-ASR, which incr
 
 More details are available in the Paper. Few of the adversarial samples generated on Kaldi-ASR and Deepspeech are below:
 
-<table><tr>
+<table  border-style: hidden;><tr>
 <td>
     <audio src="samples/sample-000001.wav" controls preload></audio>
     <details>
