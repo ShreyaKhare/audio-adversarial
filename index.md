@@ -5,20 +5,21 @@ We apply this framework on two ASR systems: Deepspeech and Kaldi-ASR, which incr
 
 More details are available in the Paper. Few of the adversarial samples generated on Kaldi-ASR and Deepspeech are below:
 
-<audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
+<audio src="samples/sample-000001.wav" controls preload></audio>
 <details>
-<summary>Click to toggle contents of `code`</summary>
+<summary>Click to Reveal text</summary>
 ```
-CODE!
+I have got to got to him 
 ```
 </details>
 
+<audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
 <details>
-<summary>Click to toggle contents of other `code`</summary>
+<summary>Click to Reveal text</summary>
 ```
-MORE CODE!
+a cat 
 ```
-</details>||
+</details>
 You can use the [editor on GitHub](https://github.com/ShreyaKhare/audio-adversairial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -40,20 +41,7 @@ MORE CODE!
 </details>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-|  	|  	|  	| DeepSpeech 	|  	| Kaldi-ASR 	|  	|
-|-------------	|------------------------------	|----------------	|:-------------------------:	|-------------------------	|-------------------------	|--------------------------	|
-| Attack type 	| ASR  Text  	| Targeted  Text 	| Adversarial  text  (NSGA) 	| Adversarial text (MOGA) 	| Adversarial text (NSGA) 	| Adversarial text  (MOGA) 	|
-| Untargeted 	|  	|  	|  	|  	|  	|  	|
-| <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
- 	| <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
- 	| <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
- 	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|
-| Targeted 	| follow the instructions here 	| all of these 	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|  	|
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
