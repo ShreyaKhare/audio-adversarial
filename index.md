@@ -5,48 +5,23 @@ We apply this framework on two ASR systems: Deepspeech and Kaldi-ASR, which incr
 
 More details are available in the Paper. Few of the adversarial samples generated on Kaldi-ASR and Deepspeech are below:
 
-<table><tr>
-<td>
-    <audio src="samples/sample-000001.wav" controls preload></audio>
+
+ <audio src="samples/sample-000001.wav" controls preload></audio>
     <details>
     <summary>Click to Reveal text</summary>
     I have got to got to him 
     </details>
-</td>
-<td> 
 <audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio>
 <details>
 <summary>Click to Reveal text</summary>
 it got girl  
 </details>
- </td>
- <td> 
 <audio src="samples/ut_moga_deepspeech_29_sample-000001.wav" controls preload></audio>
 <details>
 <summary>Click to Reveal text</summary>
 i get ill  
-</details>
- </td>
-</tr></table>
-
-<table><tr>
-<td>
-    <audio src="samples/sample-000001.wav" controls preload></audio> <details>
-    <summary>Click to Reveal text</summary>
-    I have got to got to him 
-    </details>
-</td>
-<td> 
-<audio src="samples/ut_nsga_kaldi_10_sample-000001.wav" controls preload></audio><details><summary>Click to Reveal text</summary>it got girl  </details>
- </td>
- <td> 
-<audio src="samples/ut_moga_kaldi_15_sample-000001.wav" controls preload></audio>
-<details>
-<summary>Click to Reveal text</summary>
-i get ill  
-</details>
- </td>
-</tr></table>
+</details>  
+>
 
 <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
 <details>
