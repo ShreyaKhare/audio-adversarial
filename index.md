@@ -8,17 +8,29 @@ More details are available in the Paper. Few of the adversarial samples generate
 
  <audio src="samples/sample-000001.wav" controls preload></audio><details>
     <summary>Click to Reveal text</summary>
-    I have got to got to him </details>
+    ive got to go to him </details>
 <audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 it got girl  
+ASR: Deepspeech
 </details>
 <audio src="samples/ut_moga_deepspeech_29_sample-000001.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 i get ill  
+ASR: Deepspeech
 </details>  
 >
-
+<audio src="samples/ut_nsga_kaldi_10_sample-000001.wav" controls preload></audio><details>
+<summary>Click to Reveal text</summary>
+the good girl to have  
+ASR: Kaldi-ASR
+</details>
+<audio src="samples/ut_moga_kaldi_15_sample-000001.wav" controls preload></audio><details>
+<summary>Click to Reveal text</summary>
+the scottish go to him  
+ASR:  Kaldi-ASR
+</details>  
+>
 
 <audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio>
 <details>
