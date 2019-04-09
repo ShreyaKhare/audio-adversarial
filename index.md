@@ -31,18 +31,13 @@ i get ill
 
 <table><tr>
 <td>
-    <audio src="samples/sample-000001.wav" controls preload></audio>
-    <details>
+    <audio src="samples/sample-000001.wav" controls preload></audio> <details>
     <summary>Click to Reveal text</summary>
     I have got to got to him 
     </details>
 </td>
 <td> 
-<audio src="samples/ut_nsga_kaldi_10_sample-000001.wav" controls preload></audio>
-<details>
-<summary>Click to Reveal text</summary>
-it got girl  
-</details>
+<audio src="samples/ut_nsga_kaldi_10_sample-000001.wav" controls preload></audio><details><summary>Click to Reveal text</summary>it got girl  </details>
  </td>
  <td> 
 <audio src="samples/ut_moga_kaldi_15_sample-000001.wav" controls preload></audio>
