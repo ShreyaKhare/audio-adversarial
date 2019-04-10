@@ -7,8 +7,9 @@ More details are available in the Paper. Few of the adversarial samples generate
 
 ### Set-1
 <audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio><details>
-<summary>Click to Reveal text</summary>
+<summary markdown="span">Click to Reveal text</summary>
 it got girl  
+---
 ASR: Deepspeech
 </details>
 <audio src="samples/ut_moga_deepspeech_29_sample-000001.wav" controls preload></audio><details>
