@@ -32,7 +32,7 @@ ASR:  Kaldi-ASR
 --- 
 ### Set-2
 
-<audio src="samples/ut_nsga_deepspeech_10_sample-000092.wavwav" controls preload></audio><details>
+<audio src="samples/ut_nsga_deepspeech_10_sample-000092.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 is it all   
 
