@@ -32,7 +32,6 @@ ASR:  Kaldi-ASR
 --- 
 ### Set-2
 
-
 <audio src="samples/ut_nsga_deepspeech_0_sample-000086.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 is it all   
