@@ -71,7 +71,7 @@ ASR: Deepspeech
 </details>  
 >
 <audio src="samples/ut_nsga_kaldi_9_sample-000062.wav" controls preload></audio><details>
-<summary><em>blue</em>Click to Reveal text</summary>
+<summary><em>Click to Reveal text</em></summary>
 these the man that's all right 
 ASR: Kaldi-ASR
 </details>
