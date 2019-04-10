@@ -35,7 +35,6 @@ ASR:  Kaldi-ASR
 <audio src="samples/ut_nsga_deepspeech_10_sample-000092.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 is it all   
-
 #### ASR: Deepspeech
 </details>
 <audio src="samples/ut_moga_deepspeech_0_sample-000086.wav" controls preload></audio><details>
@@ -44,42 +43,14 @@ is it all
 ASR: Deepspeech
 </details>  
 >
-<audio src="samples/ut_nsga_kaldi_10_sample-000086.wav" controls preload></audio><details>
+<audio src="samples/ut_nsga_kaldi_0_sample-000086.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 this is all you  
 ASR: Kaldi-ASR
 </details>
-<audio src="samples/ut_moga_kaldi_0_sample-000086.wav" controls preload></audio><details>
+<audio src="samples/ut_nsga_kaldi_0_sample-000086.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 this is all you  
 ASR:  Kaldi-ASR
 </details>  
 >
-
- <audio src="samples/sample-000001.wav" controls preload></audio><details>
-    <summary>Click to Reveal text</summary>
-    ive got to go to him </details>
-<audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio><details>
-<summary>Click to Reveal text</summary>
-it got girl  
----
-ASR: Deepspeech
-</details>
-<audio src="samples/ut_moga_deepspeech_29_sample-000001.wav" controls preload></audio><details>
-<summary>Click to Reveal text</summary>
-i get ill  
-ASR: Deepspeech
-</details>  
->
-<audio src="samples/ut_nsga_kaldi_10_sample-000001.wav" controls preload></audio><details>
-<summary>Click to Reveal text</summary>
-the good girl to have  
-ASR: Kaldi-ASR
-</details>
-<audio src="samples/ut_moga_kaldi_15_sample-000001.wav" controls preload></audio><details>
-<summary>Click to Reveal text</summary>
-the scottish go to him  
-ASR:  Kaldi-ASR
-</details>  
->
----
