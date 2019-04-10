@@ -13,7 +13,6 @@ More details are available in the Paper. Few of the adversarial samples generate
 <audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 it got girl  
----
 ASR: Deepspeech
 </details>
 <audio src="samples/ut_moga_deepspeech_29_sample-000001.wav" controls preload></audio><details>
@@ -38,29 +37,29 @@ ASR:  Kaldi-ASR
 ### Set-2
 
 
- <audio src="samples/sample-000001.wav" controls preload></audio><details>
+ <audio src="samples/sample-000086.wav" controls preload></audio><details>
     <summary>Click to Reveal text</summary>
-    ive got to go to him </details>
-<audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio><details>
+    this is for you</details>
+<audio src="samples/ut_nsga_deepspeech_0_sample-000086.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
-it got girl  
----
-ASR: Deepspeech
+is it all   
+
+#### ASR: Deepspeech
 </details>
-<audio src="samples/ut_moga_deepspeech_29_sample-000001.wav" controls preload></audio><details>
+<audio src="samples/ut_moga_deepspeech_0_sample-000086.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
-i get ill  
+is it all  
 ASR: Deepspeech
 </details>  
 >
-<audio src="samples/ut_nsga_kaldi_10_sample-000001.wav" controls preload></audio><details>
+<audio src="samples/ut_nsga_kaldi_10_sample-000086.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
-the good girl to have  
+this is all you  
 ASR: Kaldi-ASR
 </details>
-<audio src="samples/ut_moga_kaldi_15_sample-000001.wav" controls preload></audio><details>
+<audio src="samples/ut_moga_kaldi_0_sample-000086.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
-the scottish go to him  
+this is all you  
 ASR:  Kaldi-ASR
 </details>  
 >
