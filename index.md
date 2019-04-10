@@ -64,20 +64,20 @@ ASR:  Kaldi-ASR
 he is the man the tired   
 #### ASR: Deepspeech
 </details>
-<audio src="samples/ut_moga_deepspeech_22_sample-000062.wav" controls preload></audio><details>
+<audio src="samples/ut_moga_deepspeech_18_sample-000062.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
-he is the man the correct  
+hes the man their coverage
 ASR: Deepspeech
 </details>  
 >
-<audio src="samples/ut_nsga_kaldi_5_sample-000062.wav" controls preload></audio><details>
-<summary>Click to Reveal text</summary>
-these the man that are ready before  
+<audio src="samples/ut_nsga_kaldi_9_sample-000062.wav" controls preload></audio><details>
+<summary><em>blue</em>Click to Reveal text</summary>
+these the man that's all right 
 ASR: Kaldi-ASR
 </details>
-<audio src="samples/ut_nsga_kaldi_1_sample-000086.wav" controls preload></audio><details>
+<audio src="samples/uut_moga_kaldi_2_sample-000062.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
-he's the man that are ready and four  
+he's the man that are ready and four
 ASR:  Kaldi-ASR
 </details>  
 >
