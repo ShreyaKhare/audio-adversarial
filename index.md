@@ -5,16 +5,34 @@ We apply this framework on two ASR systems: Deepspeech and Kaldi-ASR, which incr
 
 More details are available in the Paper. Few of the adversarial samples generated on Kaldi-ASR and Deepspeech are below:
 
+
+
 ### Set-1
-<audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio> <details>
-<summary markdown="span">Click to Reveal text</summary>it got girl  ---ASR: Deepspeech
+<div> <audio src="samples/ut_nsga_deepspeech_23_sample-000001.wav" controls preload></audio> 
+<details>
+<summary> 
+
+#### Click to Reveal text
+
+</summary>
+<!-- 
+<table>
+ <tr> -->
+|-----------  | ----------- |
+|it got girl  |ASR: Deepspeech|
+<!-- </tr> -->
+<!-- <tr> -->
+<!-- </tr>
+ </table> -->
+
 </details>
+</div>
 <audio src="samples/ut_moga_deepspeech_29_sample-000001.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 i get ill  
 ASR: Deepspeech
 </details>  
->
+
 <audio src="samples/ut_nsga_kaldi_10_sample-000001.wav" controls preload></audio><details>
 <summary>Click to Reveal text</summary>
 the good girl to have  
@@ -25,7 +43,8 @@ ASR: Kaldi-ASR
 the scottish go to him  
 ASR:  Kaldi-ASR
 </details>  
->
+
+
 ---
 
 ### Set-2
@@ -79,4 +98,30 @@ ASR:  Kaldi-ASR
 </details>  
 >
 
+--- 
+
+### Set-4
+
+<audio src="samples/tar_nsga_deepspeechsample-000001.wav" controls preload></audio><details>
+<summary>Click to Reveal text</summary>
+a cat
+#### ASR: Deepspeech
+</details>
+<audio src="samples/tar_moga_deepspeechsample-000001.wav" controls preload></audio><details>
+<summary>Click to Reveal text</summary>
+a cat give   
+ASR: Deepspeech
+</details>  
+>
+<audio src="samples/tar_nsga_kaldisample-000001.wav" controls preload></audio><details>
+<summary>Click to Reveal text</summary>
+the caterpillar to have  
+ASR: Kaldi-ASR
+</details>
+<audio src="samples/tar_moga_kaldisample-000001.wav" controls preload></audio><details>
+<summary>Click to Reveal text</summary>
+the caterpillar to have  
+ASR:  Kaldi-ASR
+</details>  
+>
 
