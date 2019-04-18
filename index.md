@@ -151,7 +151,7 @@ Below are some of the adversarial samples generated on Kaldi-ASR and Deepspeech 
     <summary style="color:red">Click to Reveal text</summary>
        <dl>
                 <dt>Actual Text: this is for you</dt>
-                <dt>Generated Text:           is it all   </dt>
+                <dt>Generated Text:  is it all   </dt>
                 <dt> ASR: Deepspeech </dt>
         </dl>
     </details>  
@@ -335,22 +335,6 @@ Below are some of the adversarial samples generated on Kaldi-ASR and Deepspeech 
 
 ### Set-6 Targeted Attack
 <table>
-<tr>
-    <th>
-    <audio src="samples/tar_nsga_deepspeechsample-000047.wav" controls preload></audio>
-    </th>
-    <th>
-        <details>
-        <summary style="color:red">Click to Reveal text</summary>
-        <dl>
-                <dt>Actual Text: never mind about that</dt>
-                <dt>Target Text: they will mind   </dt>
-                <dt>Generated Text: they will mind   </dt>
-                <dt>ASR: Deepspeech</dt>
-        </dl>
-        </details>
-    </th>
- </tr>
  <tr>
     <th>   
     <audio src="samples/tar_moga_deepspeechsample-000047.wav" controls preload></audio>
@@ -367,6 +351,22 @@ Below are some of the adversarial samples generated on Kaldi-ASR and Deepspeech 
     </details>  
     </th>
   </tr>
+<tr>
+    <th>
+    <audio src="samples/tar_nsga_deepspeechsample-000047.wav" controls preload></audio>
+    </th>
+    <th>
+        <details>
+        <summary style="color:red">Click to Reveal text</summary>
+        <dl>
+                <dt>Actual Text: never mind about that</dt>
+                <dt>Target Text: they will mind   </dt>
+                <dt>Generated Text: they were minodat   </dt>
+                <dt>ASR: Deepspeech</dt>
+        </dl>
+        </details>
+    </th>
+ </tr>
 <tr>
     <th>
     <audio src="samples/tar_nsga_kaldisample-000047.wav" controls preload></audio>
